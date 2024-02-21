@@ -1,1 +1,62 @@
 /*  your css code here. If applicable */
+.MainContainer{
+	width:1100px;
+	height:auto;
+	border:1px solid black;
+	position:relative;
+	background-color:gray;
+	padding:5px;
+
+}
+.imageContainer{
+	display:flex;
+	justify-content:left;
+	padding:10px;
+}
+.row-container{
+	width:1100px;
+	height:auto;
+	border:1px solid 
+}
+.imageContainer img{
+	width:400px;
+	height:250px;
+	object-fit:cover;
+	
+}
+.row-1{
+	display:flex;
+	width:1100px;
+	height:200px;
+
+	padding:5px;
+justify-content:space-around
+	
+	
+	
+	
+}
+.Image1{
+	width:200px;
+	height:auto;
+	border:1px solid ;
+	object-fit:cover;
+	overflow:hidden; 
+	
+	
+}
+.Image2{
+	width:200px;
+	height:auto;
+	border:1px solid ;
+	object-fit:cover;
+	overflow:hidden; 
+	
+	
+}
+.text{
+	width:600px;
+	height:auto:
+	position:absolute;
+	border:1px solid ;
+}
